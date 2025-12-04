@@ -13,7 +13,7 @@
 
 Balance of the Microverse is a Cluster of Excellence based at Friedrich Schiller University Jena that focuses on understanding how microorganisms interact and shape ecosystems. Microbes—though tiny—play essential roles in maintaining life on Earth, but their delicate balance is frequently disrupted by human activity and environmental change, leading to disease, crop loss, and ecosystem damage. The cluster brings together researchers across disciplines to study microbial communities and their dynamics. A key goal is to translate ecological principles into medical and environmental applications—enabling targeted interventions that restore or manipulate microbial balance. Alongside research, the cluster supports science communication, technology transfer, and the development of early career scientists through training, collaboration, and international exchange programs.
 
-This GitHub organization hosts the open-source software, workflows, pipelines, and data resources developed across the Microverse research community.
+This GitHub page collectively hosts the open-source software, workflows, pipelines, and data resources developed across the Microverse research community.
 
 ---
 
