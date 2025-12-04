@@ -1,4 +1,3 @@
-<h1 align="center"> Balance of the Microverse </h1>
 
 <p align="center">
   <img src="logo.png" alt="Microverse Cluster logo" width="1600">
