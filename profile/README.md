@@ -1,8 +1,9 @@
+<h1 align="center">🌱 Balance of the Microverse – GitHub Organization</h1>
+
 <p align="center">
   <img src="logo.png" alt="Microverse Cluster logo" width="1600">
 </p>
 
-# 🌱 Balance of the Microverse – GitHub Organization
 
 **Excellence Cluster “Balance of the Microverse” — Friedrich Schiller University Jena**
 [https://www.uni-jena.de/5315/exzellenzcluster-balance-of-the-microverse](https://www.uni-jena.de/5315/exzellenzcluster-balance-of-the-microverse)
