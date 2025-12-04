@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" alt="Microverse Cluster logo" width="600">
+  <img src="logo.png" alt="Microverse Cluster logo" width="2600">
 </p>
 
 # 🌱 Balance of the Microverse – GitHub Organization
