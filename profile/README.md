@@ -4,13 +4,13 @@
 </p>
 
 <p align="center">
-<strong>[Excellence Cluster “Balance of the Microverse”](https://www.uni-jena.de/5315/exzellenzcluster-balance-of-the-microverse)</strong><br>
-<strong>[Friedrich Schiller University Jena](https://www.uni-jena.de/)</strong><br>
+<strong><a href="https://www.uni-jena.de/5315/exzellenzcluster-balance-of-the-microverse">Excellence Cluster “Balance of the Microverse”</a></strong><br>
+<strong><a href="https://www.uni-jena.de/">Friedrich Schiller University Jena</a></strong><br>
 </p>
 
 ---
 
-## 🧬 About the Cluster
+## 🧬 About the Microverse Cluster
 
 The **Balance of the Microverse** explores how microbial communities interact with each other and their environments, and how these interactions shape health, ecology, and technology.
 Our research combines **microbiology, ecology, medicine, chemistry, materials science, data science**, and **computational biology** to understand and influence microbiome-driven processes.
