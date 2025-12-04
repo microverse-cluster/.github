@@ -38,9 +38,9 @@ For shared or external projects, forking and pull request contributions are alwa
 
 ## 🌐 Contact & Website
 
-Microverse Cluster: [https://www.uni-jena.de/5315/exzellenzcluster-balance-of-the-microverse](https://www.microverse-cluster.de/en/contact.html)
+[Microverse Cluster](https://www.microverse-cluster.de/en/contact.html)
 
-📧 Organization maintainers: *[GitHub team]*
+Organization maintainers: *[GitHub team]*
 
 ---
 
