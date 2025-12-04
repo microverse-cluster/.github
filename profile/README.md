@@ -1,3 +1,7 @@
+<p align="center">
+  <img src=".github/profile/logo.png" alt="Microverse Cluster logo" width="180">
+</p>
+
 # 🌱 Balance of the Microverse – GitHub Organization
 
 **Excellence Cluster “Balance of the Microverse” — Friedrich Schiller University Jena**
@@ -93,9 +97,3 @@ For shared or external projects, forking and PR contributions are always welcome
 ### *Balancing the Microverse — One Line of Code at a Time.*
 
 
-### 📌 Pinned Repositories
-
-- https://github.com/microverse-cluster/pVogsFunction
-- https://github.com/microverse-cluster/ReadClassifiers
-- https://github.com/microverse-cluster/Phap
-- https://github.com/microverse-cluster/social_niche_breadth_SNB
