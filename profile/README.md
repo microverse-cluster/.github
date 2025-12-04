@@ -9,53 +9,11 @@
 
 ---
 
-## 🧬 About the Microverse Cluster
+## About the Microverse Cluster
 
-Balance of the Microverse is a Cluster of Excellence based at Friedrich Schiller University Jena that focuses on understanding how microorganisms interact and shape ecosystems. Microbes—though tiny—play essential roles in maintaining life on Earth, but their delicate balance is frequently disrupted by human activity and environmental change, leading to disease, crop loss, and ecosystem damage.
-
-The cluster brings together researchers across disciplines to study microbial communities and their dynamics. A key goal is to translate ecological principles into medical and environmental applications—enabling targeted interventions that restore or manipulate microbial balance. Alongside research, the cluster supports science communication, technology transfer, and the development of early career scientists through training, collaboration, and international exchange programs.
+Balance of the Microverse is a Cluster of Excellence based at Friedrich Schiller University Jena that focuses on understanding how microorganisms interact and shape ecosystems. Microbes—though tiny—play essential roles in maintaining life on Earth, but their delicate balance is frequently disrupted by human activity and environmental change, leading to disease, crop loss, and ecosystem damage. The cluster brings together researchers across disciplines to study microbial communities and their dynamics. A key goal is to translate ecological principles into medical and environmental applications—enabling targeted interventions that restore or manipulate microbial balance. Alongside research, the cluster supports science communication, technology transfer, and the development of early career scientists through training, collaboration, and international exchange programs.
 
 This GitHub organization hosts the open-source software, workflows, pipelines, and data resources developed across the Microverse research community.
-
----
-
-## 🏛️ Our Mission
-
-* Discover principles governing microbial community balance
-* Develop computational and experimental tools to understand microbiome dynamics
-* Support reproducible, FAIR, open-access research
-* Share methods, pipelines, and datasets to empower collaboration within and beyond Jena
-
----
-
-## 🔧 What You’ll Find Here
-
-### **🧪 Computational Tools & Libraries**
-
-Bioinformatics packages, analysis utilities, microbiome modeling tools, and domain-specific code modules.
-
-### **🔄 Analysis & Workflow Pipelines**
-
-Snakemake, Nextflow, WDL, and workflow-optimized pipelines used across Microverse labs.
-
-### **📊 Data Processing & Machine Learning**
-
-Reproducible pipelines and ML models for multi-omics, imaging, and spatial biology.
-
-### **📚 Teaching & Training Materials**
-
-Workshops, tutorials, reproducible notebooks, and computational teaching resources.
-
----
-
-## 🏢 Organizational Structure
-
-Repositories in *microverse-cluster* are contributed by members across:
-
-* Friedrich Schiller University Jena
-* Max Planck Institute for Chemical Ecology
-* Leibniz Institute for Natural Product Research and Infection Biology – Hans Knöll Institute
-* Other collaborating research groups within the Microverse Cluster
 
 ---
 
