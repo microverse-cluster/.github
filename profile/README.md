@@ -91,3 +91,11 @@ For shared or external projects, forking and PR contributions are always welcome
 ---
 
 ### *Balancing the Microverse — One Line of Code at a Time.*
+
+
+### 📌 Pinned Repositories
+
+- https://github.com/microverse-cluster/pVogsFunction
+- https://github.com/microverse-cluster/ReadClassifiers
+- https://github.com/microverse-cluster/Phap
+- https://github.com/microverse-cluster/social_niche_breadth_SNB
