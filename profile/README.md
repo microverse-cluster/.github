@@ -6,6 +6,25 @@
 <h2 align="center"><a href="https://www.microverse-cluster.de/en/">Excellence Cluster “Balance of the Microverse”</a></h2>
 <h3 align="center"><a href="https://www.uni-jena.de/">Friedrich Schiller University Jena</a></h3>
 
+## 🚀 Getting Started
+
+Start here to clone, run, and contribute to Microverse Cluster projects. We maintain a central example repository with quick-start guides, templates and minimal reproducible projects:
+
+- Repository (example): [microverse-cluster/getting-started](https://github.com/microverse-cluster/getting-started)
+- Quick start: clone a sample, run the provided example, and adapt the template for your code.
+
+Quick steps (local):
+
+```bash
+# clone the getting-started repo
+git clone https://github.com/microverse-cluster/getting-started.git
+cd getting-started
+
+# open the example README or run a provided script (example)
+cat QUICKSTART.md
+```
+
+For instructions to create and publish the `getting-started` repository from this workspace see the `getting-started/README.md` scaffold included in the organization repo.
 
 ---
 
