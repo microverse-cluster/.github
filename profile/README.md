@@ -3,9 +3,9 @@
   <img src="logo.png" alt="Microverse Cluster logo" width="1600">
 </p>
 
-<p align="center">
-<strong><a href="https://www.uni-jena.de/5315/exzellenzcluster-balance-of-the-microverse" Excellence Cluster “Balance of the Microverse” href="https://www.uni-jena.de/">Friedrich Schiller University Jena</a></strong><br>
-</p>
+<h1 align="center"><a href="https://www.uni-jena.de/5315/exzellenzcluster-balance-of-the-microverse">Excellence Cluster “Balance of the Microverse”</a></h1>
+<h3 align="center"><a href="https://www.uni-jena.de/">Friedrich Schiller University Jena</a></h3>
+
 
 ---
 
