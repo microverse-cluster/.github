@@ -32,17 +32,15 @@ At the Microverse Cluster, we believe in the power of open science and collabora
    * Versioning and release notes
    * FAIR and reproducible workflows
 
-For shared or external projects, forking and PR contributions are always welcome.
+For shared or external projects, forking and pull request contributions are always welcome.
 
 ---
 
 ## 🌐 Contact & Website
 
 🌍 Microverse Cluster: [https://www.uni-jena.de/5315/exzellenzcluster-balance-of-the-microverse](https://www.uni-jena.de/5315/exzellenzcluster-balance-of-the-microverse)
-📧 Organization maintainers: *[add contact email or GitHub team]*
+📧 Organization maintainers: *[GitHub team]*
 
 ---
-
-### *Balancing the Microverse — One Line of Code at a Time.*
 
 
