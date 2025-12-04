@@ -28,6 +28,16 @@ For instructions to create and publish the `getting-started` repository from thi
 
 ---
 
+## 📘 Best Practices
+
+We maintain a central repository with recommended patterns, templates, and minimal examples to help projects stay consistent and reproducible across the Microverse Cluster:
+
+- Repository: [microverse-cluster/best-practices](https://github.com/microverse-cluster/best-practices)
+- What you'll find: repository templates, documentation guidelines, CI examples, and small example workflows.
+
+Use the `best-practices` repo as a reference when starting new projects or contributing templates and examples.
+
+
 ## About the Microverse Cluster
 
 Balance of the Microverse is a Cluster of Excellence based at Friedrich Schiller University Jena that focuses on understanding how microorganisms interact and shape ecosystems. Microbes—though tiny—play essential roles in maintaining life on Earth, but their delicate balance is frequently disrupted by human activity and environmental change, leading to disease, crop loss, and ecosystem damage. The cluster brings together researchers across disciplines to study microbial communities and their dynamics. A key goal is to translate ecological principles into medical and environmental applications—enabling targeted interventions that restore or manipulate microbial balance. Alongside research, the cluster supports science communication, technology transfer, and the development of early career scientists through training, collaboration, and international exchange programs.
