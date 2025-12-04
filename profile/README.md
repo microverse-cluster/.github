@@ -17,9 +17,9 @@ This GitHub organization hosts the open-source software, workflows, pipelines, a
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
-We welcome contributions from cluster researchers and collaborators.
+At the Microverse Cluster, we believe in the power of open science and collaborative discovery. Our repositories are built by an international community of microbial bioinformaticians — and you can be part of it! Whether you’re contributing new features, improving documentation, or sharing feedback, we’re excited to work with you. If you’re new to open source, don’t worry — we’re happy to help you get started.
 
 ### To contribute:
 
@@ -40,16 +40,6 @@ For shared or external projects, forking and PR contributions are always welcome
 
 🌍 Microverse Cluster: [https://www.uni-jena.de/5315/exzellenzcluster-balance-of-the-microverse](https://www.uni-jena.de/5315/exzellenzcluster-balance-of-the-microverse)
 📧 Organization maintainers: *[add contact email or GitHub team]*
-
----
-
-## 🧩 Pinned Projects (example placeholders)
-
-> Replace these once actual repositories are added.
-
-* **microverse-toolkit** — Common utilities for microbiome analysis
-* **microverse-pipelines** — Standardized computational workflows
-* **microverse-datahub** — Preprocessing and harmonization tools for cluster datasets
 
 ---
 
