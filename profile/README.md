@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-<strong><a href="https://www.uni-jena.de/5315/exzellenzcluster-balance-of-the-microverse">Excellence Cluster “Balance of the Microverse” href="https://www.uni-jena.de/">Friedrich Schiller University Jena</a></strong><br>
+<strong><a href="https://www.uni-jena.de/5315/exzellenzcluster-balance-of-the-microverse" Excellence Cluster “Balance of the Microverse” href="https://www.uni-jena.de/">Friedrich Schiller University Jena</a></strong><br>
 </p>
 
 ---
