@@ -20,17 +20,13 @@ At the Microverse Cluster, we believe in the power of open science and collabora
 
 ### To contribute:
 
-1. **Join the organization** via invitation
+1. **Join the organization** via invitation ([contact a team member below](#contact-and-website))
 2. **Transfer your repository** to make it an official Microverse project
-3. Use standard practices:
-
-   * Clear README
-   * Open license (MIT/Apache recommended)
-   * Versioning and release notes
-   * FAIR and reproducible workflows
+3. Use ([best practices] (#best-practices)
 
 For shared or external projects, forking and pull request contributions are always welcome.
 
+<a id="best-practices"></a>
 ## 📘 Best Practices
 
 We maintain a central repository with recommended patterns, templates, and minimal examples to help projects stay consistent and reproducible across the Microverse Cluster:
@@ -42,11 +38,19 @@ Use the `best-practices` repo as a reference when starting new projects or contr
 
 ---
 
+<a id="contact-and-website"></a>
 ## 🌐 Contact & Website
 
 [Microverse Cluster](https://www.microverse-cluster.de/en/contact.html)
 
-Organization maintainers: *[GitHub team]*
+GitHub team:
+1. Swapnil Doijad (VEO group)
+2. ABC (AAA group)
+3. XYZ (DEF group)
+
+If you want to become a GitHub team member, please contact Swapnil Doijad (swapnil.doijad@uni-jena.de) or ABC (abc.xyz@uni-jena.de).
+
+If you have questions or need help getting started, feel free to reach out to your group representative (or any of the team members) above.
 
 ---
 
