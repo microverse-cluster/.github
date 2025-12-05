@@ -31,7 +31,7 @@ For shared or external projects, forking and pull request contributions are alwa
 
 We maintain a central repository with recommended patterns, templates, and minimal examples to help projects stay consistent and reproducible across the Microverse Cluster. 
 
-See [best-practices](https://github.com/microverse-cluster/best-practices)) as a reference when starting new projects or contributing templates and examples.
+See [best-practices](https://github.com/microverse-cluster/best-practices) as a reference when starting new projects or contributing templates and examples.
 
 ---
 
