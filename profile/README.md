@@ -27,19 +27,16 @@ At the Microverse Cluster, we believe in the power of open science and collabora
 For shared or external projects, forking and pull request contributions are always welcome.
 
 <a id="best-practices"></a>
-## 📘 Best Practices
+## Best Practices
 
-We maintain a central repository with recommended patterns, templates, and minimal examples to help projects stay consistent and reproducible across the Microverse Cluster:
+We maintain a central repository with recommended patterns, templates, and minimal examples to help projects stay consistent and reproducible across the Microverse Cluster. 
 
-- Repository: [microverse-cluster/best-practices](https://github.com/microverse-cluster/best-practices)
-- What you'll find: repository templates, documentation guidelines, CI examples, and small example workflows.
-
-Use the `best-practices` repo as a reference when starting new projects or contributing templates and examples.
+See `best-practices` ([https://github.com/microverse-cluster/best-practices] (https://github.com/microverse-cluster/best-practices)) as a reference when starting new projects or contributing templates and examples.
 
 ---
 
 <a id="contact-and-website"></a>
-## 🌐 Contact & Website
+## Contact & Website
 
 [Microverse Cluster](https://www.microverse-cluster.de/en/contact.html)
 
