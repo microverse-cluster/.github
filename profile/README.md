@@ -22,7 +22,7 @@ At the Microverse Cluster, we believe in the power of open science and collabora
 
 1. **Join the organization** via invitation ([contact a team member below](#contact-and-website))
 2. **Transfer your repository** to make it an official Microverse project
-3. Use ([best practices] (#best-practices)
+3. Use best practices
 
 For shared or external projects, forking and pull request contributions are always welcome.
 
